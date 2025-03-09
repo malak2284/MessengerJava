@@ -36,10 +36,3 @@ This project consists of two main components:
    - Receives a packet, extracts the sender's address and port.
    - Sends the same message back to the client, creating an echo effect.
 
-## Getting Started
-
-Follow these steps to compile and run the project locally:
-
-1. **Compile the Code:**
-   ```bash
-   javac Main.java Client.java Serwer.java
